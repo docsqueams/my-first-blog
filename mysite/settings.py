@@ -25,7 +25,7 @@ SECRET_KEY = '-^_b0c_2vgrv_7swjt@ulho+(=gc-=)g5o_5d^ke7aesgw&0gd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kat2218.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'docsqueams.pythonanywhere.com']
 
 
 # Application definition
